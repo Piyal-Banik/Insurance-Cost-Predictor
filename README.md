@@ -6,7 +6,7 @@ Create a Machine Learning model which predicts the charges of Insurance
   
 ## Acknowledgements
 
- - [Category:Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+ - [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
  
 
 ## Author
